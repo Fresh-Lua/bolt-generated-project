@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: radial-gradient(circle, #000428, #004e92);
+  color: white;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}

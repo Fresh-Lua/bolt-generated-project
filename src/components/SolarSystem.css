@@ -1,0 +1,6 @@
+.solar-system-container {
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(circle, #000000, #0a0a2a);
+  overflow: hidden;
+}
